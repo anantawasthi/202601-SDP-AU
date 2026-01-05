@@ -121,7 +121,7 @@ His work focuses on translating complex concepts in programming, Machine Learnin
 
 📧 Email: anant.awasthi@outlook.com  
 📞 Phone: +91-88846-92929  
-🔗 LinkedIn | GitHub  
+🔗 [LinkedIn](https://www.linkedin.com/in/anantawasthi/) | [GitHub](https://github.com/anantawasthi/)  | [YouTube](https://www.youtube.com/@AIwithAnant)
 
 ---
 
